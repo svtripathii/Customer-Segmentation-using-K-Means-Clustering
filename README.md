@@ -30,4 +30,4 @@ To use this dataset:
 This dataset is synthetic and is intended for educational and analytical purposes only. It may not reflect real-world customer behavior.
 
 ## Contact
-For questions or further information, please contact [Your Name] at [Your Email].
+For questions or further information, please contact Saurav Tripathi at sauravtripathi72@gmail.com
